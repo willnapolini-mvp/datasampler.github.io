@@ -1,69 +1,178 @@
-<div align="center">
+# BookSummaries — Data Sampler Dataset
 
-  # Chirpy Jekyll Theme
+> A curated collection of the world's most impactful books, summarized using the Representative Sampling Methodology. 3 samples. 3 patterns. Infinite insight.
 
-  A minimal, responsive, and feature-rich Jekyll theme for technical writing.
+---
 
-  [![Demo](https://img.shields.io/badge/Demo-Click%20Here-3aa2f1?style=for-the-badge&logo=jekyll&logoColor=white)](https://docs.digitalden.cloud)
+## What Is This?
 
-<img src="assets/img/headers/jekyll2.webp" alt="Devices Mockup">
+A dataset of **book summaries** generated using the **Data Sampler Methodology** — a systematic approach to distilling any book into its most representative insights.
 
-</div>
+Instead of exhaustive coverage, each summary contains:
+- **3-5 representative samples** (scenarios, case studies, or examples)
+- **Pattern extraction** (transferable principles per sample)
+- **Key generalizations** (concepts that apply beyond the specific book)
+- **Conclusion** (actionable application)
 
-## Features
+---
 
-- Dark / Light Theme Mode
-- Localized UI language
-- Pinned Posts on Home Page
-- Hierarchical Categories
-- Trending Tags
-- Table of Contents
-- Last Modified Date
-- Syntax Highlighting
-- Mathematical Expressions
-- Mermaid Diagrams & Flowcharts
-- Dark / Light Mode Images
-- Embed Videos
-- Disqus / Giscus / Utterances Comments
-- Built-in Search
-- Atom Feeds
-- PWA
-- Google Analytics / GoatCounter
-- SEO & Performance Optimization
+## The Methodology
 
-## Getting Started
+### Why Sample?
 
-To set up and deploy your own documentation site using Jekyll and the Chirpy theme, check out these resources:
+Most book summaries suffer from one of two problems:
+- **Too shallow**: 10 bullet points that capture nothing
+- **Too deep**: Chapter-by-chapter recaps that overwhelm
 
-[![Setup Guide](https://img.shields.io/badge/Setup%20Guide-Read%20Here-blue?style=for-the-badge)](https://docs.digitalden.cloud/posts/set-up-and-deploy-a-documentation-site-with-jekyll-and-chirpy-on-aws-cloud9/)
-[![Video Tutorial](https://img.shields.io/badge/Video%20Tutorial-Watch%20Now-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=7cLkDE8_tCI&t=17s)
+The Data Sampler approach solves this by selecting the **highest-impact examples** that collectively illuminate the full concept. Readers can extrapolate patterns, not just collect facts.
 
+### The Format
 
-You will learn how to:
-- Launch and prepare the AWS Cloud9 environment.
-- Set up the development environment for Jekyll with Chirpy on Cloud9.
-- Configure Git and SSH for GitHub integration.
-- Install and set up the Chirpy theme using the Chirpy starter template.
-- Create and run a start script to preview your site in Cloud9.
-- Deploy the site to GitHub Pages using GitHub Actions.
-- Personalize the Jekyll site configuration and the "About Me" page.
-- Write your first post with Chirpy using Markdown syntax.
-- (Optional) Map a custom domain to your GitHub Pages site.
+```
+# [Book Title] — Data Sampler Summary
+
+## Core Insight
+> One-sentence thesis
+
+---
+
+## Representative Samples: [N]
+
+### Sample 1: [Title]
+**Scenario**: [Concrete example]
+**Pattern**: [Transferable principle]
+
+---
+
+## Key Generalizations
+
+| Concept | Core Truth |
+|---------|-----------|
+| ... | ... |
+
+## Conclusion
+[2-3 sentences]
+```
+
+---
+
+## Dataset Structure
+
+```
+booksummary-dataset/
+├── README.md
+├── _posts/
+│   ├── atomic-habits.md
+│   ├── deep-work.md
+│   ├── 8-rules-of-love.md
+│   ├── psychology-of-money.md
+│   ├── thinking-fast-slow.md
+│   └── ... (ongoing additions)
+├── CONTRIBUTING.md
+└── LICENSE
+```
+
+### Frontmatter Schema
+
+Each summary includes YAML frontmatter:
+
+```yaml
+---
+title: "Book Title"
+author: "Author Name"
+summary_length: "~500 words"
+samples_count: 3
+categories: [Category1, Category2]
+date_added: YYYY-MM-DD
+source: "Original publication or reference"
+---
+```
+
+---
+
+## Categories
+
+- **Self-Improvement**: Atomic Habits, Deep Work, The 7 Habits
+- **Finance**: The Psychology of Money, Rich Dad Poor Dad, Thinking in Bets
+- **Philosophy**: Meditations, The Obstacle Is the Way, Man's Search for Meaning
+- **Relationships**: 8 Rules of Love, Attached, The 5 Love Languages
+- **Thinking**: Thinking Fast and Slow, The Art of Thinking Clearly, A Mind for Numbers
+
+---
+
+## Quick Start
+
+### Browse by Category
+
+```bash
+# View all summaries
+ls _posts/
+
+# Filter by category (via frontmatter)
+grep -l "Self-Improvement" _posts/*.md
+```
+
+### Generate Your Own
+
+Use the [Data Sampler Prompt](#) as a template to summarize any book:
+
+```
+ROLE: Data Sampler Summarizer
+
+TASK: Transform [BOOK TITLE] into a representative sampling summary.
+
+OUTPUT FORMAT:
+1. Core Insight (one sentence)
+2. 3-5 Representative Samples (scenario + pattern)
+3. Key Generalizations table
+4. Conclusion (application)
+
+CONSTRAINTS:
+- 400-600 words
+- Never exceed 5 samples
+- One concrete scenario per sample
+- Favor insight over information density
+```
+
+---
+
+## Contributing
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for:
+
+- Submission guidelines
+- Quality standards
+- Sample evaluation criteria
+- Format specifications
+
+**Process:**
+1. Fork the repository
+2. Add your summary in `summaries/[book-title].md`
+3. Ensure it follows the format template
+4. Submit a pull request
+
+---
+
+## Philosophy
+
+> *"Show enough representative examples that readers can extrapolate the pattern, then trust them to generalize."*
+
+This dataset is for:
+- **Learners** who want essence without exhaustive reading
+- **AI trainers** building book summary datasets
+- **Content creators** seeking structured, pattern-driven summaries
+- **Researchers** studying knowledge compression techniques
+
+---
 
 ## License
 
-This project is published under [MIT License][license].
+MIT License — Free for personal, educational, and commercial use.
 
-[gem]: https://rubygems.org/gems/jekyll-theme-chirpy
-[ci]: https://github.com/cotes2020/jekyll-theme-chirpy/actions/workflows/ci.yml?query=event%3Apush+branch%3Amaster
-[codacy]: https://app.codacy.com/gh/cotes2020/jekyll-theme-chirpy/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade
-[license]: https://github.com/cotes2020/jekyll-theme-chirpy/blob/master/LICENSE
-[jekyllrb]: https://jekyllrb.com/
-[clipartmax]: https://www.clipartmax.com/middle/m2i8b1m2K9Z5m2K9_ant-clipart-childrens-ant-cute/
-[demo]: https://cotes2020.github.io/chirpy-demo/
-[wiki]: https://github.com/cotes2020/jekyll-theme-chirpy/wiki
-[contribute-guide]: https://github.com/cotes2020/jekyll-theme-chirpy/blob/master/docs/CONTRIBUTING.md
-[contributors]: https://github.com/cotes2020/jekyll-theme-chirpy/graphs/contributors
-[lib]: https://github.com/cotes2020/chirpy-static-assets
-[vscode]: https://code.visualstudio.com/
-[jetbrains]: https://www.jetbrains.com/?from=jekyll-theme-chirpy
+---
+
+## Related Projects
+
+- [Data Sampler Prompt Template](link)
+- [Awesome Book Summaries](link)
+- [Mental Models Collection](link)
