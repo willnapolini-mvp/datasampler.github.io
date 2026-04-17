@@ -1,215 +1,159 @@
 ---
-title: "Книга дня: «8 правил любви» Джея Шетти в кратком изложении."
+title: "Book of the Day: '8 Rules of Love' by Jay Shetty — A Summary"
 description: >-
-  В этой статье я кратко и понятно изложу главные идеи книги «8 правил любви» Джея Шетти. За 5 минут вы узнаете, как эти правила помогают строить осознанные отношения, раскрывать себя и жить с открытым сердцем.
+  A clear, engaging summary of Jay Shetty's "8 Rules of Love." In 5 minutes, discover how these principles help you build conscious relationships, understand yourself better, and live with an open heart.
 date: 2024-01-01 00:00:00 +0800
-categories: [Мышление, Саммари-книг]
+categories: [Mindset, Book Summaries]
 tags:
   [
-    8-правил-любви,
-    джей-шетти,
-    саморазвитие,
-    личностный-рост,
-    философия-любви,
-    мудрость-джея-шетти,
-    осознанные-отношения,
-    джей-шетти-книги,
-    ответственность-в-отношениях,
-    правила-счастливой-любви,
-    путь-к-сердцу,
-    цитаты-джея-шетти,
-    самопознание,
-    важность-связи,
-    уязвимость-и-близость,
-    любовь-и-смысл,
-    джей-шетти-советы,
-    как-любить-осознанно,
-    открой-своё-сердце
+    8-rules-of-love,
+    jay-shetty,
+    self-development,
+    personal-growth,
+    philosophy-of-love,
+    jay-shetty-wisdom,
+    conscious-relationships,
+    jay-shetty-books,
+    relationship-responsibility,
+    rules-for-happy-love,
+    path-to-the-heart,
+    jay-shetty-quotes,
+    self-awareness,
+    importance-of-connection,
+    vulnerability-and-intimacy,
+    love-and-meaning,
+    jay-shetty-advice,
+    how-to-love-consciously,
+    open-your-heart
   ]
 image: https://res.cloudinary.com/dqpwi2gat/image/upload/v1747480405/8-rules-love-jay-shetty-willonsuccess-book-cover_ocrs4w.png
-alt: 'Книга дня: «8 правил любви» Джея Шетти в кратком изложении.'
+alt: "Book of the Day: '8 Rules of Love' by Jay Shetty — A Summary"
 pin: false
-fallback:
-  -
-  # Замените на URL вашей резервной картинки
-  -
-  # Замените на URL вашей резервной картинки
 ---
-**Чувствуешь, что в отношениях не хватает глубины?**
-**Задаёшься вопросом: «А как выглядит настоящая любовь — без фильтров и розовых очков?»**
-**Хочешь не просто быть рядом, а быть услышанным, понятым и любимым — по-настоящему?**
 
-Тогда лови путеводитель для сердца — книга [«8 правил любви»](https://t.me/+y8vbRU0jRjJkNmY0) от мудрого и обаятельного Джея Шетти, бывшего монаха, ставшего голосом миллионов.
+**Do you feel like something's missing in your relationships — real depth, real connection?**  
+**Ever wonder: "What does love actually look like without the fairy tales and filters?"**  
+**Do you want to be truly heard, understood, and loved — not just tolerated?**
 
-🧭 Это не просто книга. Это компас для тех, кто ищет искренность, тепло и осознанность в отношениях — с собой и с другими.
+Then here's a compass for your heart — [*8 Rules of Love*](https://t.me/+y8vbRU0jRjJkNmY0) by the brilliant Jay Shetty, a former monk turned voice for millions.
 
-📚 Джей делится 8 практичными, простыми, но глубокими принципами, которые помогают:
+🧭 This isn't just a book. It's a guide for anyone who wants sincerity, warmth, and intention in their relationships — with others and with themselves.
 
-* Понять, что такое зрелая любовь
-* Научиться быть честным и открытым
-* Построить связь, которая держится не только на страсти, но и на уважении, принятии и поддержке
+📚 Jay shares 8 practical, accessible, yet deeply insightful principles that help you:
 
-🌱 Он пишет не с небес, а с земли: с юмором, теплом и опорой на личный опыт и духовную практику. Без морализаторства, но с душой. Это как поговорить по душам с мудрым другом за чашкой вечернего чая.
+* Understand what mature love really looks like
+* Learn to be honest and emotionally open
+* Build a connection that stands on more than just chemistry — one rooted in respect, acceptance, and genuine support
 
-А я — помогу тебе пройти этот путь. Разберём каждое правило, добавим жизненные примеры, чтобы ты не просто читал — а **жил** эти идеи.
+🌱 He writes not from a pedestal, but from lived experience — with humor, warmth, and spiritual grounding. No preaching, just soul. It's like a heart-to-heart conversation with a wise friend over a cup of evening tea.
 
-🎁 А ещё у нас есть [закрытое сообщество](https://t.me/+y8vbRU0jRjJkNmY0), где ты можешь:
+## ❤️ *Love Is a Verb: Jay Shetty's 8 Rules That Will Change How You Love*
 
-* Бесплатно скачать **1001+ краткое изложение бестселлеров по саморазвитию и психологии**
-* Получить суть книги «8 правил любви» за 5 минут
-* Найти людей, которые, как и ты, ищут глубины и смысла
+Imagine relationships are less like a perfectly curated Instagram aesthetic and more like a camping trip — sweat, blisters, a campfire, real conversations under the stars, and sharing one water bottle between you. Jay Shetty's *8 Rules of Love* is your trail guide. It's not just "about love" — it's about how to love well: with intention, warmth, and your eyes wide open.
 
-Если ты готов впустить в свою жизнь настоящую любовь — начни с этих восьми правил. Они могут изменить не только твою романтическую историю, но и всё восприятие себя и мира.
+Read it over a weekend, listen on your commute, or read this article right now and understand in 5 minutes why love isn't just chemistry — it's a craft.
 
-{% include telegram-banner.html 
-   url="https://t.me/will_reads"
-   title="⚡ Контент, которого нет в открытом доступе"
-   subtitle="Инсайты, туториалы и материалы только для подписчиков канала"
-   cta_text="ВОЙТИ В КАНАЛ"
-%}
+---
 
-## ❤️ *Любовь — это глагол: 8 правил от Джея Шетти, которые перевернут твоё сердце*
+### 1. **Love yourself first. Everything else follows.**
 
-Представь, что отношения — это не розовый фильтр в Instagram, а поход в поход: пот, мозоли, костёр, разговоры у палатки и одна фляга на двоих. Книга Джея Шетти *«8 правил любви»* — твой путеводитель по этому маршруту. Не просто «про любовь», а про то, как любить по-настоящему: осознанно, с теплом и без розовых очков.
+Before you build a palace of love, you need to clear out the clutter in your own head. Shetty insists: if you don't respect yourself, you'll unconsciously teach others not to either. Self-love isn't bubble baths and Netflix — it's being able to say, "I am worthy, even when I'm not perfect."
 
-Хочешь — проглоти книгу за выходные, хочешь — слушай в пробке, а можешь просто прочитать эту статью и уже через 5 минут понять, почему любовь — это не «химия», а ремесло.
+> **Example:** Say you weren't invited to a gathering. The old version of you spirals: "I must not matter." The new version? Makes a cup of tea, puts on a favorite show, and moves on. New mindset, new reactions.
 
-### 1. **Сначала — любовь к себе. Без этого никуда**
+---
 
-Прежде чем строить дворец любви, надо вычистить сарай в голове. Шетти настаивает: если ты себя не уважаешь, партнёр будет повторять за тобой. Любовь к себе — это не ванна с пеной и сериал, а умение сказать себе: «Я достоин(на), даже если не идеален(на)».
+### 2. **Love is not magic — it's a practice.**
 
-{% include tip-card.html 
-   icon="✨" 
-   title="Пример:" 
-   text="Представь, что тебя не пригласили на вечеринку. Старое «я» в панике: «Я — пустое место!» Новое — идёт пить чай с мёдом и смотрит «Ералаш» без угрызений. Новый взгляд — новые реакции."
-%}
+We love to believe that love hits you like lightning — bam, butterflies, and suddenly everything makes sense. Jay says: love is more like a habit, a daily workout. Every day is a small choice toward the other person. Saying "I'm sorry," making coffee when you'd rather sleep in, showing up when it's inconvenient.
 
-### 2. **Любовь — это не магия, а практика**
+> **Tip:** Want lasting love? Do small, kind things with no agenda. Every day. Even when you don't feel like it. Love lives in the details.
 
-Мы любим думать, что любовь — как у Раневской: бах — и в сердце бабочки. А Джей говорит: любовь — это привычка, тренировка, как отжимания. Каждый день — маленькие выборы в сторону другого. Говорить «прости», варить кофе, когда сам хочешь поспать.
+---
 
-{% include tip-card.html 
-   icon="💖" 
-   title="Совет:" 
-   text="Хочешь крепкую любовь? Делай маленькие добрые дела без повода. Каждый день. Даже если очень лень. Любовь живёт в мелочах." 
-%}
+### 3. **You're not a "half." You're a whole person.**
 
+Shetty dismantles the myth of the "other half." Love isn't two incomplete people filling each other's gaps — it's two whole people choosing each other. You are already enough. A relationship is a club you both want to be part of, not a lifeline you cling to.
 
+> **Tip:** Go on dates with yourself. Seriously. A movie, a walk, a coffee shop. Fall in love with your own company — and others will too.
 
-### 3. **Ты — не половинка. Ты — целый пирог**
+---
 
-Шетти ломает миф про «вторую половину». Любовь — это не слияние двух недостающих деталей, а союз двух целых. Ты уже самодостаточен. Отношения — как клуб по интересам, а не палочка-выручалочка.
+### 4. **Learn to listen — not just wait to speak.**
 
-{% include tip-card.html 
-   icon="🌸" 
-   title="Совет:" 
-   text="Ходи на свидания с собой. Нет, правда. Кино, прогулка, кафе. Полюби свою компанию — и другие тоже начнут. С тобой — не скучно." 
-%}
-
-
-
-### 4. **Учись слышать, а не спорить**
-
-***Притча:***
+> **A parable:**
 >
-> Один мужчина пришёл к мудрецу и сказал:
-> 
-> — Моя жена меня не слышит. Я говорю, а она молчит.
-> 
-> Мудрец улыбнулся:
-> 
-> — А ты слушаешь, чтобы понять или чтобы ответить?
-> 
-> Мужчина задумался.
-> 
-> — Слушай так, как будто хочешь увидеть душу. Тогда и тебя услышат.
-> 
+> A man came to a wise teacher and said:  
+> "My partner never listens to me. I speak, and they just go quiet."  
+>
+> The teacher smiled and asked:  
+> "Do you listen to understand — or to reply?"  
+>
+> The man fell silent.  
+>
+> "Listen as though you're trying to see their soul," said the teacher. "Then they'll listen to yours."
 
-Слушать — это когда убираешь телефон и взгляд в потолок. Это когда не перебиваешь, даже если зудит. Это уважение.
-
-
-
-### 5. **Конфликты — не враги, а учителя**
-
-Скандалы бывают даже у Гарри Поттера с Гермионой. Главное — как ты из них выходишь. Не «победить», а «понять». Не «затаить», а «проговорить».
-
-{% include tip-card.html 
-   icon="🫂" 
-   title="Совет:" 
-   text="Следующий раз, когда начнётся ссора — спроси: «Чего ты на самом деле боишься сейчас?» Иногда за криком — страх быть отвергнутым. Сначала — боль, потом — близость." 
-%}
-
-
-### 6. **Растите вместе, а не друг против друга**
-
-Если один идёт в спортзал, а другой — в холодильник, будет сложно. Расти вместе — значит интересоваться, поддерживать, вдохновлять, а не тянуть одеяло. Как говорил мой дед: «На одном лыжнике далеко не уедешь».
-
-{% include tip-card.html 
-   icon="🧘‍♂️" 
-   title="Пример:" 
-   text="Вместо «опять ты свои йоги включил», скажи: «А покажешь мне, как правильно дышать?» Вдруг ты тоже найдёшь дзен? Любопытство сближает." 
-%}
-
-
-
-### 7. **Любовь — это выбор, который ты делаешь каждый день**
-
-Даже в день, когда ты хочешь выбросить зубную щётку партнёра в окно. 
-
-Любовь — не всегда чувство, но всегда решение: быть рядом, прощать, заботиться. 
-
-Каждый день — нажимаешь «обновить» и продолжаешь.
-
-
-
-### 8. **Отпускай с любовью**
-
-Иногда любовь — это и уйти. 
-
-Шетти говорит: отношения могут быть временными, но уроки — вечными. 
-
-Не держись за того, кто не держит тебя. Отпускать — не проигрыш, а мудрость.
-
-
-### **🏆 Миссия для чемпиона:**
-
-**«Дневник любви» — 5 минут осознанности**
-
-Каждый вечер в течение недели пиши в блокноте:
-
-* За что ты благодарен(на) в отношениях сегодня?
-* Что ты сделал(а), чтобы проявить любовь?
-* Что хочешь улучшить завтра?
-
-*Эффект — как от медитации, только приятнее.*
-
-## 💌 Финал с теплом:
-
-Ты дочитал — значит, уже готов любить мудрее. Не важно, в отношениях ты или нет — любовь начинается с тебя. Оставь комментарий — какой из 8 правил тебе откликнулся больше всего?
-
-**Обнял, вдохновил, отпустил.** Поделись статьёй с одним другом — пусть тоже откроет своё сердце по-новому.
-
-И помни: любовь — это глагол. 
-
-Действуй! ❤️
-
-## 🎁 Награда за прочтение:
-
-{% include tip-card.html 
-   icon="💡" 
-   title="Цитата, которая согревает, как плед зимой:" 
-   text="Любовь — это не то, что ты чувствуешь. Это то, что ты создаёшь." 
-%}
-
-*Хочешь больше?* 
+Real listening means putting your phone down, making eye contact, and resisting the urge to interrupt even when you're itching to respond. That is respect.
 
 ---
 
-{% include cta-box.html 
-   link="https://t.me/+y8vbRU0jRjJkNmY0"
-   title="🔥Бесплатный чек-лист🔥"
-   subtitle="«10 вопросов, чтобы понять себя в любви»" 
-%}
+### 5. **Conflicts are teachers, not enemies.**
 
+Even the best relationships have friction. What matters is how you come through it — not "winning," but understanding. Not holding it in, but working it out.
+
+> **Tip:** Next time a fight starts, try asking: "What are you actually afraid of right now?" Behind most arguments is a fear of being rejected, unseen, or unloved. Name the fear first — the closeness comes after.
+
+---
+
+### 6. **Grow together, not in parallel.**
+
+If one of you is running toward new goals while the other stays stuck, the gap will widen. Growing together means being curious about each other, cheering each other on, and not making your partner's growth feel like a threat to yours.
+
+> **Example:** Instead of eye-rolling at your partner's new yoga obsession, try: "Can you show me one pose?" You might find something you love — and you'll definitely strengthen the bond.
+
+---
+
+### 7. **Love is a choice you make every day.**
+
+Even on the days you want to throw their coffee mug out the window.
+
+Love isn't always a feeling — it's a decision. A commitment to show up, to forgive, to care. Every morning you hit refresh and choose it again.
+
+---
+
+### 8. **Sometimes love means letting go.**
+
+Occasionally, the loving thing to do is to leave — or to release someone. Shetty reminds us: relationships can be temporary, but the lessons are permanent. Don't hold on to someone who isn't holding on to you. Letting go isn't failure. It's wisdom.
+
+---
+
+## 🏆 Your Challenge This Week:
+
+**The Love Journal — 5 minutes of daily reflection**
+
+Each evening for one week, write in a notebook:
+
+* What am I grateful for in my relationship (or with myself) today?
+* How did I express love today?
+* What do I want to do differently tomorrow?
+
+*The effect is like meditation — but warmer.*
+
+---
+
+## 💌 A Final Word:
+
+You made it to the end — which means you're already ready to love more wisely. Whether you're in a relationship or not, love always starts with you. Leave a comment below: which of the 8 rules hit closest to home?
+
+**Inspired. Challenged. Now go live it.** Share this with someone who might need it — help them open their heart in a new way.
+
+And remember: love is a verb. 
+
+Act on it. ❤️
+
+---
+
+> 💡 *A quote to carry with you:*  
+> **"Love is not something you feel. It's something you create."**
 
 ---
